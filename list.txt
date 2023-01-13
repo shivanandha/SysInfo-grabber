@@ -1,0 +1,8 @@
+Host Name
+Registered Owner
+OS Name
+Original Install Date
+Product ID
+System Type
+Processor(s)
+Total Physical Memory
